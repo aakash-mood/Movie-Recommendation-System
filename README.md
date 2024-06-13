@@ -1,1 +1,7 @@
 # Movie-Recommendation-System
+
+In the field of machine learning and data clustering, K-means clustering is a widely used algorithm that aims to partition a dataset into K distinct clusters based on similarity measures. Part1 explores the application of K-means clustering using three different similarity measures: Euclidean, Cosine, and Jaccard. By examining these three methods, I aim to identify the most effective approach for clustering and classification tasks based on specific criteria.
+
+Part2 delves into comparing the Sum of Squared Errors (SSE) for K-means clustering using three different similarity measures: Euclidean, Cosine, and Jaccard
+
+Recommender systems have become essential in providing personalized experiences across various platforms, predicting user preferences for items such as movies, products, and restaurants. In this exercise, we aim to develop a small recommender system using the "ratings small.csv" dataset from the MovieLens collection, which includes movie ratings from users. By leveraging matrix completion techniques in machine learning, we will evaluate the performance of different recommendation algorithms such as Probabilistic Matrix Factorization (PMF), User-based Collaborative Filtering, and Item-based Collaborative Filtering. The performance of these models will be assessed using Mean Absolute Error (MAE) and Root Mean Square Error (RMSE) metrics, along with the impact of different similarity measures and the number of neighbors on these collaborative filtering techniques.
